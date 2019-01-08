@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:galacticon="http://schemas.android.com/apk/res-auto">
+
+  <item
+      android:id="@+id/action_change_recycler_manager"
+      android:icon="@android:drawable/ic_menu_sort_by_size"
+      android:orderInCategory="300"
+      android:title="@string/change_layout_manager"
+      galacticon:showAsAction="ifRoom" />
+
+</menu>
